@@ -2,7 +2,7 @@
 
 I build and write about the engineering work behind durable web products: frontend systems, build graphs, runtime boundaries, type systems, and the tiny workflow choices that decide whether a team keeps cruising or slowly turns into soup.
 
-Most of my notes live at [longho.dev](https://longho.dev/) and [longlho.github.io](https://longlho.github.io/), where I poke at the places product engineering meets infrastructure.
+Most of my notes live at [longho.dev](https://longho.dev/), my vanity URL for the GitHub Pages site, where I poke at the places product engineering meets infrastructure.
 
 ## Current Quest Log 🧭
 
@@ -13,11 +13,11 @@ Most of my notes live at [longho.dev](https://longho.dev/) and [longlho.github.i
 
 ## Recent Writing ✍️
 
-- [A Package Is a Distribution Boundary](https://longlho.github.io/posts/a-package-is-a-distribution-boundary/)
-- [A Cross-Platform Web Runtime Is A Product Boundary](https://longlho.github.io/posts/a-cross-platform-web-runtime-is-a-product-boundary/)
-- [RSC Server Functions Are Not An API Boundary](https://longlho.github.io/posts/rsc-server-functions-are-not-an-api-boundary/)
-- [Why Bazel For Large Frontend Monorepos?](https://longlho.github.io/posts/part-1-why-bazel-for-large-frontend-monorepos/)
-- [Operating The Build System As Product Infrastructure](https://longlho.github.io/posts/part-8-operating-the-build-system-as-product-infrastructure/)
+- [A Package Is a Distribution Boundary](https://longho.dev/posts/a-package-is-a-distribution-boundary/)
+- [A Cross-Platform Web Runtime Is A Product Boundary](https://longho.dev/posts/a-cross-platform-web-runtime-is-a-product-boundary/)
+- [RSC Server Functions Are Not An API Boundary](https://longho.dev/posts/rsc-server-functions-are-not-an-api-boundary/)
+- [Why Bazel For Large Frontend Monorepos?](https://longho.dev/posts/part-1-why-bazel-for-large-frontend-monorepos/)
+- [Operating The Build System As Product Infrastructure](https://longho.dev/posts/part-8-operating-the-build-system-as-product-infrastructure/)
 
 ## Opinions I Keep Reusing Like A Favorite Hoodie 🧥
 
