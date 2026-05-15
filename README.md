@@ -11,14 +11,6 @@ Most of my notes live at [longho.dev](https://longho.dev/), my vanity URL for th
 - 🌍 **Internationalization**: localization architecture, message extraction, translation workflows, and maintaining [FormatJS](https://formatjs.io/).
 - ⚡ **Product engineering**: fast interfaces, routing, data loading, UX systems, deploy safety, artifact verification, and tooling that remains maintainable after launch.
 
-## Recent Writing ✍️
-
-- [A Package Is a Distribution Boundary](https://longho.dev/posts/a-package-is-a-distribution-boundary/)
-- [A Cross-Platform Web Runtime Is A Product Boundary](https://longho.dev/posts/a-cross-platform-web-runtime-is-a-product-boundary/)
-- [RSC Server Functions Are Not An API Boundary](https://longho.dev/posts/rsc-server-functions-are-not-an-api-boundary/)
-- [Why Bazel For Large Frontend Monorepos?](https://longho.dev/posts/part-1-why-bazel-for-large-frontend-monorepos/)
-- [Operating The Build System As Product Infrastructure](https://longho.dev/posts/part-8-operating-the-build-system-as-product-infrastructure/)
-
 ## Opinions I Keep Reusing Like A Favorite Hoodie 🧥
 
 - 📦 Build outputs are APIs.
@@ -28,4 +20,4 @@ Most of my notes live at [longho.dev](https://longho.dev/), my vanity URL for th
 - 🌉 Shared runtime layers are product infrastructure, not just convenience utilities.
 - 🧘 The best internal tooling makes the right thing feel boring.
 
-Find the full writing index, RSS feed, and more engineering rabbit holes at [longho.dev](https://longho.dev/) ✨
+For writing, RSS, and more engineering rabbit holes, just go to [longho.dev](https://longho.dev/) ✨
